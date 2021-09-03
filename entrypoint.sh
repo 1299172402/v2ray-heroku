@@ -112,7 +112,7 @@ cat <<-EOF > /v2raybin/vmess.json
     "v": "2",
     "ps": "${AppName}.herokuapp.com",
     "add": "${AppName}.herokuapp.com",
-    "port": "443",
+    "port": "80",
     "id": "${UUID}",
     "aid": "${AlterID}",
     "net": "ws",
