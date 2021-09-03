@@ -37,7 +37,7 @@ shadowsocks+v2ray-plugin方案点击这里： <https://github.com/ygcaicn/ss-her
 
 ```sh
 address: test.herokuapp.com (test替换为你的AppName)
-port: 443
+port: 80
 id: 部署时填写的UUID
 AlterID： 部署是填写的AlterID，默认64
 security: auto
